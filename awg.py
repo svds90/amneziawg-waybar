@@ -5,7 +5,7 @@ from pathlib import Path
 import sys
 import os
 
-cfg_path = "/path/to/cfg"
+cfg_path = "/path/to/cfg/config.conf"
 
 AWG_INTERFACE = Path(cfg_path).stem
 
